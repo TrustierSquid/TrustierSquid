@@ -30,14 +30,14 @@
 </style>
 
 <br>
-###About me 💕
+#About me 💕
 - I am currently studying at Henry Ford College and Eastern Michigan University for Web development.
 - I want to become a full stack web developer. 
 - I am always looking forward to learning somthing new everyday
 
 ---
 
-###Private Projects in Development 🔑
+#Private Projects in Development 🔑
 ####React apps 💻
 - Task Tracker
 - Twitter clone
