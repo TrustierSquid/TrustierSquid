@@ -3,6 +3,7 @@
 # Hey! 😊
 
 ## My Skills 🛠️
+<hr>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,ts,git,github,bootstrap,nodejs,figma,ps,react,py,discord,jquery,powershell,vscode,svg,md,twitter,instagram)](https://skillicons.dev)
 
 
