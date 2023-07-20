@@ -1,8 +1,6 @@
 
 
 # Hey! My name is Sam 😊
-
-## My Skills 🛠️
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,ts,git,github,bootstrap,nodejs,figma,ps,react,py,discord,jquery,powershell,vscode,svg,md,twitter,instagram)](https://skillicons.dev)
 
 
