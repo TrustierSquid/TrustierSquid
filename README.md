@@ -1,7 +1,7 @@
 
 
 # Hey! My name is Sam 😊
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,sass,ts,git,github,bootstrap,nodejs,figma,ps,react,py,discord,jquery,powershell,vscode,svg,md,twitter,instagram,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,sass,ts,git,github,bootstrap,nodejs,figma,ps,react,py,discord,jquery,powershell,vscode,svg,md,twitter,instagram,linux,ubuntu)](https://skillicons.dev)
 
 
 
